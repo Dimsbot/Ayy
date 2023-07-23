@@ -3918,7 +3918,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 9,
+      "exp": 36,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -7342,7 +7342,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 15,
+      "exp": 23,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -9054,7 +9054,7 @@
       "emas": 0,
       "emerald": 0,
       "esteh": 0,
-      "exp": 10,
+      "exp": 34,
       "expg": 0,
       "exphero": 0,
       "expired": 0,
@@ -9778,10 +9778,10 @@
       "lastSuccess": 1690110926796
     },
     "_autoreact.js": {
-      "total": 8,
-      "success": 8,
-      "last": 1690112035294,
-      "lastSuccess": 1690112035294
+      "total": 9,
+      "success": 9,
+      "last": 1690115988025,
+      "lastSuccess": 1690115988025
     },
     "internet-memeindo.js": {
       "total": 4,
@@ -9856,9 +9856,9 @@
       "lastSuccess": 1690111007659
     },
     "youtube-yts.js": {
-      "total": 2,
+      "total": 3,
       "success": 2,
-      "last": 1690111318792,
+      "last": 1690115018284,
       "lastSuccess": 1690111318792
     },
     "own-addlimit.js": {
@@ -9914,6 +9914,12 @@
       "success": 0,
       "last": 1690114382686,
       "lastSuccess": 0
+    },
+    "youtube-ytv.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1690115030599,
+      "lastSuccess": 1690115030599
     }
   },
   "msgs": {},
@@ -9926,7 +9932,7 @@
       "restrict": false,
       "autorestart": true,
       "restartDB": 0,
-      "status": 1690114379793
+      "status": 1690115988018
     }
   }
 }
